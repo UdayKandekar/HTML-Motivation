@@ -1,0 +1,23 @@
+body{
+    background-color: #04364A;
+}
+div{
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    width: 48%;
+    color: #DAFFFB;
+    background-color: #04364A;   
+}
+img{    
+    border: 5px solid #DAFFFB;
+    width: 98%;
+}
+h1 {  
+    font-family: "Libre Baskerville", serif;
+    font-size: 160%;  
+}
+p{    
+    font-family: "Edu TAS Beginner", cursive;
+    font-optical-sizing: auto;
+}
